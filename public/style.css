@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Helvetica Neue;
+  font-weight: 200;
+  font-size: 20px;
+  background-color: #313131;
+  color: #ccc;
+}
+
+img {
+  height: 100px;
+}
